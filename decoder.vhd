@@ -4,7 +4,7 @@ library ieee;
 use ieee.std_logic_1164.all;
 
 entity de1 is
-	port(  A, B 	        : in std_logic;
+	port(  A, B 	      : in std_logic;
 	       D0, D1, D2, D3 : out std_logic);
 end entity;
 
